@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @olegstass
+- 👀 I’m java developer
